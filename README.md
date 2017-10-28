@@ -1,2 +1,2 @@
 # DaftCode_Python
-# Zadania_domowe_1
+# Rozwiązania zadań domowych
